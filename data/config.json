@@ -82,7 +82,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/pietrosaccarini",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true,
