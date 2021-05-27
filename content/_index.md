@@ -107,7 +107,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Exto Theme
+  title: Pietro Saccarini
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
