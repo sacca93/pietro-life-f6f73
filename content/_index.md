@@ -6,9 +6,9 @@ sections:
     template: section_hero
     title: 'Hi, I''m Pietro and this is my life.'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A place for everything I've done in my life. A place to share my projects
+      and thoughts.
     actions:
       - type: action
         template: action
