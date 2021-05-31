@@ -1,5 +1,5 @@
 ---
-title: Project TitleGirls
+title: Girls Code it Better!
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
